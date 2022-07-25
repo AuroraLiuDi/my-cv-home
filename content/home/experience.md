@@ -41,6 +41,7 @@ experience:
         * Data collection, a small sample of 60 participants were collected via a face to face guidance
         * Modeling, considering the nesting nature of data, we adopted SVM and RSA for analysis
         * Report writing, a formal report was written in Chinese                 
+   
    -title: "Professor of Semiconductor Physics"
     company: "University X"
     company_url:  ''
