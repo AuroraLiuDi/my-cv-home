@@ -52,11 +52,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Idea polishing-gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
-        * Deploying-ooperating with two classmates, in charge of to-do-items distribution
-        * Data collection-a large sample of 275 participants were recruited via online platform
-        * Modeling-SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
-        * Report writing-a formal report was written in English
+        * Idea polishing, gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
+        * Deploying, ooperating with two classmates, in charge of to-do-items distribution
+        * Data collection, a large sample of 275 participants were recruited via online platform
+        * Modeling, SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
+        * Report writing, a formal report was written in English
        
 
 design:
