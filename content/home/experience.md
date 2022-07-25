@@ -6,11 +6,14 @@ widget: experience
 # This file represents a page section.
 headless: true
 
+# Active this section
+active: true
+
 # Order that this section appears on the page.
 weight: 40
 
-title: Experience
-subtitle:
+title: Research Experience
+subtitle: ""
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -21,8 +24,8 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality
+[[experience]]
+    title: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality
     company: research assistant to Yanchao Bi's concept lab
     company_url: ''
     company_logo: org-gc
@@ -39,8 +42,8 @@ experience:
         * Report writing: a formal report was written in Chinese
         """
         
-
-  - title: Professor of Semiconductor Physics
+[[experience]]
+    title: Professor of Semiconductor Physics
     company: University X
     company_url: ''
     company_logo: org-x
