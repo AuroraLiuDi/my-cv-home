@@ -35,9 +35,13 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Literature review
-        * Material process
-        * Deployiny 
+        * Literature review, examine papers targeting on relationship between language and non-verbal traits
+        * Material process, after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
+        * Deploying, cooperating with one of my classmate, in charge of to-do-items distribution
+        * Data collection, a small sample of 60 participants were collected via a face to face guidance
+        * Modeling, considering the nesting nature of data, we adopted SVM and RSA for analysis
+        * Report writing, a formal report was written in Chinese![image](https://user-images.githubusercontent.com/87709991/180811095-97e8d905-18e5-40b3-9822-288d1f12439f.png)
+
       
   - title: "Project 2-Emotional knowledge representational structure and its prediction of emotional well-being"
     company: "research assistant to Yanchao Bi's concept lab"
