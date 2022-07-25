@@ -26,10 +26,11 @@ experience:
     company: Yanchao Bi's concept lab
     company_url: ''
     company_logo: org-gc
-    Organzation: Beijing Normal University
+    location: Beijing Normal University
     date_start: '2020-3'
     date_end: ''
-    Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality|2-
+    description:|2-
+        Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality
         Responsibilities include:
         
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
@@ -38,7 +39,8 @@ experience:
         * Data collection: a small sample of 60 participants were collected via a face to face guidance
         * Modeling: considering the nesting nature of data, we adopted SVM and RSA for analysis
         * Report writing: a formal report was written in Chinese
-   Project 2: Emotional knowledge representational structure and its prediction of emotional well-being|2-
+        
+        Project 2: Emotional knowledge representational structure and its prediction of emotional well-being|2-
         Responsibilities include:
         
         *Idea polishing: gaining inspiration from my experience with Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
