@@ -1,6 +1,6 @@
 ---
 role: Senior student in Psychology
-avatar_filename: ""
+avatar_filename: "content/authors/admin/photo.png"
 bio: My research interest includes semantic representation, conceptual knowledge
   (especially emotional knowledge), and language
 interests:
