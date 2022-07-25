@@ -1,6 +1,6 @@
 ---
 role: Senior student in Psychology
-avatar_filename: "https://github.com/AuroraLiuDi/my-cv-home/blob/201b9de6ae6178a9093ecb768d036efff424242f/content/authors/admin/photo.png"
+avatar_filename: "content/authors/admin/photo.png"
 bio: My research interest includes semantic representation, conceptual knowledge
   (especially emotional knowledge), and language
 interests:
