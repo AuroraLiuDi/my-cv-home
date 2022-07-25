@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-   - title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
+  - title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
     company: "research assistant to Yanchao Bi's concept lab"
     company_url: ''
     location: 'Beijing Normal University'
@@ -39,7 +39,7 @@ experience:
         * Material process
         * Deployiny 
       
-   - title: "Professor of Semiconductor Physics"
+  - title: "Professor of Semiconductor Physics"
     company: "University X"
     company_url:  ''
     location: 'California'
