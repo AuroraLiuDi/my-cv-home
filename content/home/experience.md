@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - company: Yanchao Bi's concept lab
-    position: research assistant 
+    title: research assistant 
     company_url: ''
     company_logo: org-gc
     Organzation: Beijing Normal University
