@@ -29,8 +29,8 @@ date_format: Jan 2006
     company = "research assistant to Yanchao Bi's concept lab"
     company_url = ""
     location = "Beijing Normal University"
-    date_start = "2020-3-20"
-    date_end = "2021-6-1"
+    date_start = "Mar 2020"
+    date_end = "JUN 2021"
     description = """
         Responsibilities include:
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
@@ -46,8 +46,8 @@ date_format: Jan 2006
     company = "University X"
     company_url = ""
     location = "California"
-    date_start = "2021-6-20"
-    date_end = "2022-6-20"
+    date_start = "JUN 2021"
+    date_end = "JUN 2022"
     description = """
         Responsibilities include:
         *Project 2-Emotional knowledge representational structure and its prediction of emotional well-being
