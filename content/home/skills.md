@@ -17,17 +17,27 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
   - description: mature user
-    icon: r-project
-    icon_pack: fab
+    icon: r
+    icon_pack: fas
     name: R
+  - description: mature user (especially with psychtoolbox experiment design)
+    icon: m
+    icon_pack: fas
+    name: MATLAB
+  - description: have project experience
+    icon: p
+    icon_pack: fas
+    name: Python
+  - description: experienced and ethusiastic
+    icon: language
+    icon_pack: fas
+    name: semantic analysis (e.g., NLP)
   - description: well-practiced
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
