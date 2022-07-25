@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - company: Yanchao Bi's concept lab
-    title: research assistant 
+  - title: research assistant 
+    company: Yanchao Bi's concept lab
     company_url: ''
     company_logo: org-gc
     Organzation: Beijing Normal University
     date_start: '2020-3'
-    date_end: 'On Going'
+    date_end: ''
     Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality|2-
         Responsibilities include:
         
