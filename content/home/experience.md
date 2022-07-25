@@ -26,14 +26,15 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-   -title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
-    company: "research assistant to Yanchao Bi's concept lab"
-    company_url:  ""
-    location: "Beijing Normal University"
-    date_start: '2020-3-20'
-    date_end: '2022-6-20'
-    description: |2-
+  - title: 'Verbal Knowledge Predicts the Individual Traits in Sociality and Morality'
+    company: 'research assistant to Yanchao Bi's concept lab'
+    company_url: ''
+    location: 'Beijing Normal University'
+    date_start: '2020-03-20'
+    date_end: '2021-06-20'
+    description: >-
         Responsibilities include:
+        
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
         * Material process: after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
         * Deploying: cooperating with one of my classmate, in charge of to-do-items distribution
@@ -41,16 +42,16 @@ experience:
         * Modeling: considering the nesting nature of data, we adopted SVM and RSA for analysis
         * Report writing: a formal report was written in Chinese
         
-        
-
-   -title = "Professor of Semiconductor Physics"
-    company = "University X"
-    company_url = ""
-    location = "California"
-    date_start = "JUN 2021"
-    date_end = "JUN 2022"
-    description:|2-
+               
+   -title: 'Professor of Semiconductor Physics'
+    company: 'University X'
+    company_url:  ''
+    location: 'California'
+    date_start: '2021-06-20'
+    date_end = '2022-06-20'
+    description:>-
         Responsibilities include:
+        
         *Project 2-Emotional knowledge representational structure and its prediction of emotional well-being
         *Idea polishing: gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
         *Deploying: cooperating with two classmates, in charge of to-do-items distribution
