@@ -35,12 +35,12 @@ experience:
     description: >-
         Responsibilities include:
         
-        * Literature review: examine papers targeting on relationship between language and non-verbal traits
-        * Material process: after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
-        * Deploying: cooperating with one of my classmate, in charge of to-do-items distribution
-        * Data collection: a small sample of 60 participants were collected via a face to face guidance
-        * Modeling: considering the nesting nature of data, we adopted SVM and RSA for analysis
-        * Report writing: a formal report was written in Chinese
+        * Literature review, examine papers targeting on relationship between language and non-verbal traits
+        * Material process, after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
+        * Deploying, cooperating with one of my classmate, in charge of to-do-items distribution
+        * Data collection, a small sample of 60 participants were collected via a face to face guidance
+        * Modeling, considering the nesting nature of data, we adopted SVM and RSA for analysis
+        * Report writing, a formal report was written in Chinese
        -<
                      
    -title: "Professor of Semiconductor Physics"
