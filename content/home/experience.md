@@ -25,11 +25,11 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 [[experience]]
-    title: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality
-    company: research assistant to Yanchao Bi's concept lab
+    title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
+    company: "research assistant to Yanchao Bi's concept lab"
     company_url: ''
     company_logo: org-gc
-    location: Beijing Normal University
+    location: "Beijing Normal University"
     date_start: '2020-3-20'
     date_end: '2021-6-1'
     description:"""
@@ -43,11 +43,11 @@ date_format: Jan 2006
         """
         
 [[experience]]
-    title: Professor of Semiconductor Physics
-    company: University X
+    title: "Professor of Semiconductor Physics"
+    company: "University X"
     company_url: ''
     company_logo: org-x
-    location: California
+    location: "California"
     date_start: '2021-6-20'
     date_end: '2022-6-20'
     description: """
