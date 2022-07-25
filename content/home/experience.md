@@ -12,8 +12,8 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title: Research Experience
-subtitle: ""
+title = "Research Experience"
+subtitle = ""
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
@@ -25,14 +25,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 [[experience]]
-    title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
-    company: "research assistant to Yanchao Bi's concept lab"
-    company_url: ''
-    company_logo: org-gc
-    location: "Beijing Normal University"
-    date_start: '2020-3-20'
-    date_end: '2021-6-1'
-    description:"""
+    title = "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
+    company = "research assistant to Yanchao Bi's concept lab"
+    company_url = ""
+    location = "Beijing Normal University"
+    date_start = "2020-3-20"
+    date_end = "2021-6-1"
+    description = """
         Responsibilities include:
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
         * Material process: after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
@@ -43,14 +42,13 @@ date_format: Jan 2006
         """
         
 [[experience]]
-    title: "Professor of Semiconductor Physics"
-    company: "University X"
-    company_url: ''
-    company_logo: org-x
-    location: "California"
-    date_start: '2021-6-20'
-    date_end: '2022-6-20'
-    description: """
+    title = "Professor of Semiconductor Physics"
+    company = "University X"
+    company_url = ""
+    location = "California"
+    date_start = "2021-6-20"
+    date_end = "2022-6-20"
+    description = """
         Responsibilities include:
         *Project 2-Emotional knowledge representational structure and its prediction of emotional well-being
         *Idea polishing: gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
