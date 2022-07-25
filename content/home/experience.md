@@ -12,8 +12,8 @@ active: true
 # Order that this section appears on the page.
 weight: 40
 
-title = "Research Experience"
-subtitle = ""
+title : "Research Experience"
+subtitle : 
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
