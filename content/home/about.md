@@ -1,21 +1,15 @@
 ---
-# An instance of the About widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
-
-# Activate this widget? true/false
-active: true
-
-# This file represents a page section.
 headless: true
-
-# Order that this section appears on the page.
 weight: 20
-
-title: Biography
-
-# Choose the user profile to display
-# This should be the username (folder name) of a profile in your `content/authors/` folder.
-# See https://wowchemy.com/docs/get-started/#introduce-yourself
+title: Introduction
+active: true
 author: admin
+widget_id: recent-post
+design:
+  background:
+    text_color_light: false
+    image_darken: 1
+  columns: "1"
 ---
+I am a senior studying **psychology** at Beijing Normal University, and am currently being a visiting student at Lady Magaret Hall, Oxford University. My research  interests broadly falls upon cognitive and developmental psychology, with specific enthusiasm about individual difference in **semantic representation**, acquisition of **conceptual knowledge**, and **language** development.
