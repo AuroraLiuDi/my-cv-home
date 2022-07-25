@@ -29,7 +29,7 @@ experience:
     location: Beijing Normal University
     date_start: '2020-3'
     date_end: ''
-    description:Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality|2-
+    description:Project 1-Verbal Knowledge Predicts the Individual Traits in Sociality and Morality|2-
         Responsibilities include:
         
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
@@ -47,7 +47,7 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Project 2: Emotional knowledge representational structure and its prediction of emotional well-being|2-
+    description: Project 2-Emotional knowledge representational structure and its prediction of emotional well-being|2-
         Responsibilities include:
         
         *Idea polishing: gaining inspiration from my experience with Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
