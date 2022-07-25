@@ -39,16 +39,15 @@ experience:
         * Material process
         * Deployiny 
       
-  - title: "Professor of Semiconductor Physics"
-    company: "University X"
+  - title: "Project 2-Emotional knowledge representational structure and its prediction of emotional well-being"
+    company: "research assistant to Yanchao Bi's concept la"
     company_url:  ''
-    location: 'California'
+    location: 'Beijing Normal University'
     date_start: '2021-06-20'
     date_end: '2022-06-20'
     description: |2-
         Responsibilities include:
         
-        *Project 2-Emotional knowledge representational structure and its prediction of emotional well-being
         *Idea polishing: gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
         *Deploying: cooperating with two classmates, in charge of to-do-items distribution
         *Data collection: a large sample of 275 participants were recruited via online platform
