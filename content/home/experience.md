@@ -40,7 +40,7 @@ experience:
         * Deploying, cooperating with one of my classmate, in charge of to-do-items distribution
         * Data collection, a small sample of 60 participants were collected via a face to face guidance
         * Modeling, considering the nesting nature of data, we adopted SVM and RSA for analysis
-        * Report writing, a formal report was written in Chinese![image](https://user-images.githubusercontent.com/87709991/180811095-97e8d905-18e5-40b3-9822-288d1f12439f.png)
+        * Report writing, a formal report was written in Chinese
 
       
   - title: "Project 2-Emotional knowledge representational structure and its prediction of emotional well-being"
