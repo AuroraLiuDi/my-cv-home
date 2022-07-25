@@ -29,8 +29,8 @@ experience:
     company = "research assistant to Yanchao Bi's concept lab"
     company_url = ""
     location = "Beijing Normal University"
-    date_start = "Mar 2020"
-    date_end = "JUN 2021"
+    date_start = "2020-3"
+    date_end = "2022-6"
     description: |2-
         Responsibilities include:
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
