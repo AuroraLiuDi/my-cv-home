@@ -32,7 +32,7 @@ experience:
     location: 'Beijing Normal University'
     date_start: '2020-03-20'
     date_end: '2021-06-20'
-    description: >-
+    description: |2-
         Responsibilities include:
         
         * Literature review
