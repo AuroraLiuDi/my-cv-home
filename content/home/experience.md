@@ -45,7 +45,7 @@ experience:
     location: 'California'
     date_start: '2021-06-20'
     date_end: '2022-06-20'
-    description:|2-
+    description: |2-
         Responsibilities include:
         
         *Project 2-Emotional knowledge representational structure and its prediction of emotional well-being
