@@ -40,9 +40,7 @@ experience:
         * Deploying
         * Data collection
         * Modeling
-        * Report writing
-                  
-   
+        * Report writing 
    -title: "Professor of Semiconductor Physics"
     company: "University X"
     company_url:  ''
