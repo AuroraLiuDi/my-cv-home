@@ -36,4 +36,4 @@ email: 201911061110@mail.bnu.edu.cn
 ---
 I am Di Liu, a senior studying **psychology** at Beijing Normal University, and am currently studying at Lady Magaret Hall, Oxford University as a visiting student. My research  interests broadly falls upon cognitive and developmental psychology, with specific enthusiasm about individual difference in **semantic representation**, acquisition of **conceptual knowledge**, **language** development, and how this process is shaped by **culture**.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/\[updated]Di Liu-CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/\[updated]Di Liu-CV.pdf" "newtab" >}}CV{{< /staticref >}}.
