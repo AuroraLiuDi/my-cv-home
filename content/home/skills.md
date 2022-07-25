@@ -28,6 +28,10 @@ feature:
     icon: p
     icon_pack: fas
     name: Python
+  - description: starting!
+    icon: j
+    icon_pack: fas
+    name: JAVA
   - description: experienced and ethusiastic
     icon: language
     icon_pack: fas
