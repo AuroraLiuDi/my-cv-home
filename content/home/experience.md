@@ -38,9 +38,7 @@ experience:
         * Literature review
         * Material process
         * Deploying
-        * Data collection
-        * Modeling
-        * Report writing 
+      
    -title: "Professor of Semiconductor Physics"
     company: "University X"
     company_url:  ''
