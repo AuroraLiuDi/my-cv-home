@@ -43,8 +43,8 @@ experience:
         * Report writing: a formal report was written in Chinese
         
 experience:              
-   -title: 'Professor of Semiconductor Physics'
-    company: 'University X'
+   -title: "Professor of Semiconductor Physics"
+    company: "University X"
     company_url:  ''
     location: 'California'
     date_start: '2021-06-20'
