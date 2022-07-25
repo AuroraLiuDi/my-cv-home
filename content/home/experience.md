@@ -26,7 +26,7 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: "Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
+  - title: "Project 1-Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
     company: "research assistant to Yanchao Bi's concept lab"
     company_url: ''
     location: 'Beijing Normal University'
@@ -40,7 +40,7 @@ experience:
         * Deployiny 
       
   - title: "Project 2-Emotional knowledge representational structure and its prediction of emotional well-being"
-    company: "research assistant to Yanchao Bi's concept la"
+    company: "research assistant to Yanchao Bi's concept lab"
     company_url:  ''
     location: 'Beijing Normal University'
     date_start: '2021-06-20'
@@ -48,11 +48,11 @@ experience:
     description: |2-
         Responsibilities include:
         
-        *Idea polishing: gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
-        *Deploying: cooperating with two classmates, in charge of to-do-items distribution
-        *Data collection: a large sample of 275 participants were recruited via online platform
-        *Modeling: SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
-        *Report writing: a formal report was written in English
+        * Idea polishing-gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
+        * Deploying-ooperating with two classmates, in charge of to-do-items distribution
+        * Data collection-a large sample of 275 participants were recruited via online platform
+        * Modeling-SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
+        * Report writing-a formal report was written in English
        
 
 design:
