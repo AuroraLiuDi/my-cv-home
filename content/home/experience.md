@@ -37,7 +37,7 @@ experience:
         
         * Literature review
         * Material process
-        * Deploying
+        * Deployiny -2|
       
    -title: "Professor of Semiconductor Physics"
     company: "University X"
