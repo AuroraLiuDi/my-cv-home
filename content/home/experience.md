@@ -29,8 +29,7 @@ experience:
     location: Beijing Normal University
     date_start: '2020-3'
     date_end: ''
-    description:|2-
-        Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality
+    description:Project 1: Verbal Knowledge Predicts the Individual Traits in Sociality and Morality|2-
         Responsibilities include:
         
         * Literature review: examine papers targeting on relationship between language and non-verbal traits
@@ -40,14 +39,6 @@ experience:
         * Modeling: considering the nesting nature of data, we adopted SVM and RSA for analysis
         * Report writing: a formal report was written in Chinese
         
-        Project 2: Emotional knowledge representational structure and its prediction of emotional well-being|2-
-        Responsibilities include:
-        
-        *Idea polishing: gaining inspiration from my experience with Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
-        *Deploying: cooperating with two classmates, in charge of to-do-items distribution
-        *Data collection: a large sample of 275 participants were recruited via online platform
-        *Modeling: SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
-        *Report writing: a formal report was written in English
 
   - title: Professor of Semiconductor Physics
     company: University X
@@ -56,7 +47,14 @@ experience:
     location: California
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: Project 2: Emotional knowledge representational structure and its prediction of emotional well-being|2-
+        Responsibilities include:
+        
+        *Idea polishing: gaining inspiration from my experience with Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
+        *Deploying: cooperating with two classmates, in charge of to-do-items distribution
+        *Data collection: a large sample of 275 participants were recruited via online platform
+        *Modeling: SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
+        *Report writing: a formal report was written in English
 
 design:
   columns: '2'
