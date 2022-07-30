@@ -23,7 +23,7 @@ organizations:
     url: https://english.bnu.edu.cn
 education:
   courses:
-    - course: Bsc in Psychology GPA: 4.00/4.00
+    - course: Bsc in Psychology GPA 4.00/4.00
       institution: Beijing Normal University
       year: ""
     - course: Non-matriculated program of Psychology
