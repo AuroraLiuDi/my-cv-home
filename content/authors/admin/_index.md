@@ -2,7 +2,7 @@
 role: Senior student in Psychology
 avatar_filename: "content/authors/admin/photo.png"
 bio: My research interest includes semantic representation, conceptual knowledge
-  (especially emotional knowledge), and language
+  (especially emotional knowledge), language, and culture
 interests:
   - Semantic Representations
   - Conceptual Knowledge
@@ -23,7 +23,7 @@ organizations:
     url: https://english.bnu.edu.cn
 education:
   courses:
-    - course: Bsc in Psychology
+    - course: Bsc in Psychology GPA: 4.00/4.00
       institution: Beijing Normal University
       year: ""
     - course: Non-matriculated program of Psychology
