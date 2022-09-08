@@ -1,7 +1,7 @@
 ---
 title: "Writing Sample: A pilot study: Word-understanding gives yourself away
   Conceptual representation predicts social value orientation"
-subtitle: A writing sample for the course of experimental psychology
+subtitle: A writing sample for the course of experimental psychology that got 98
 date: 2022-09-08T15:35:41.357Z
 summary: Humans show different preference for cooperation and competition as
   they perceive and think of things in distinctive ways. Although previous
