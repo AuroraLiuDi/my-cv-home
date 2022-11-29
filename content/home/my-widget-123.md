@@ -1,6 +1,6 @@
 ---
 widget: publication
-widget_id: my-widget-123
+widget_id: publication
 headless: true
 weight: 0
 title: Publication
