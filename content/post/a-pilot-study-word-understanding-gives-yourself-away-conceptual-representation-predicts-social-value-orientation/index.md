@@ -21,6 +21,10 @@ summary: Humans show different preferences for cooperation and competition as
   psychometrics.
 draft: false
 featured: false
+tags:
+  - Psychology of Language
+categories:
+  - Psychology of Language
 image:
   filename: figure-1.png
   focal_point: Smart
