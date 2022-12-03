@@ -1,7 +1,7 @@
 ---
 title: Declarative memory and medial temporal lobe
 subtitle: Essay for Behavioural Neuroscience tutorial
-date: 2022-12-03T02:13:22.147Z
+date: 2022-10-03T20:25:22.147Z
 summary: Memory can be classified into a vast number of different types. As one
   of the most important subtypes, declarative memory, distinguished from
   procedural memory, refers to the storage of explicit knowledge about events
