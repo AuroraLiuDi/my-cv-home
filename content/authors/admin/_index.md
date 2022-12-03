@@ -28,8 +28,8 @@ education:
     - course: Bsc in Psychology GPA 4.00/4.00
       institution: Beijing Normal University
       year: ""
-    - course: Visiting Student in Psychology (as an undergraduate student)
-      institution: University of Oxford (College: Lady Margaret Hall)
+    - course: Visiting Student in Psychology
+      institution: University of Oxford
       year: ""
 superuser: true
 highlight_name: true
