@@ -9,6 +9,10 @@ summary: Memory is not a single unity, but a collection of various components.
   our knowledge about it.
 draft: false
 featured: false
+tags:
+  - Behavioural Neuroscience
+categories:
+  - Behavioural Neuroscience
 image:
   filename: featured
   focal_point: Smart
