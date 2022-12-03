@@ -28,16 +28,16 @@ content:
   email: 201911061110@mail.bnu.edu.cn
   office_hours:
     - 'Always available'
-  appointment_url: '[https://calendly.com](https://calendly.com/di_liu)'
+  appointment_url: 'https://calendly.com/di_liu'
   contact_links:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: '[https://twitter.com/Twitter](https://twitter.com/diliu_aurora)'
+      link: 'https://twitter.com/diliu_aurora'
     - icon: video
       icon_pack: fas
       name: Zoom Me
-      link: '[https://zoom.com](https://stanford.zoom.us/j/6320473761?pwd=OTNRZk1SelhoaDVJREtEbjhvWDcwUT09)'
+      link: 'https://stanford.zoom.us/j/6320473761?pwd=OTNRZk1SelhoaDVJREtEbjhvWDcwUT09'
 
 design:
   columns: '2'
