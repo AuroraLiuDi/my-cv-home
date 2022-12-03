@@ -4,6 +4,8 @@ subtitle: Essay for Psychology of Language tutorial
 date: 2022-10-06T09:17:22.640Z
 draft: false
 featured: false
+tags:
+  - Psychology of Language
 categories:
   - Psychology of Language
 image:
