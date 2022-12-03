@@ -15,6 +15,10 @@ summary: As one of the most well-investigated cases in neuroscience history,
   approaches evolved in the meanwhile.
 draft: false
 featured: false
+tags:
+  - Behavioural Neuroscience
+categories:
+  - Behavioural Neuroscience
 image:
   filename: featured
   focal_point: Smart
