@@ -2,7 +2,7 @@
 title: "A pilot study: Word-understanding gives yourself away Conceptual
   representation predicts social value orientation "
 subtitle: "A course work for the Experimental Psychology (Final Grade: 98)"
-date: 2022-12-03T01:31:03.305Z
+date: 2022-09-08T00:31:03.305Z
 summary: Humans show different preferences for cooperation and competition as
   they perceive and think of things in distinctive ways. Although previous
   studies have revealed such differences can be explained by general factors
