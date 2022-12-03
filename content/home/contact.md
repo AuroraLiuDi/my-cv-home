@@ -27,7 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: 201911061110@mail.bnu.edu.cn
   office_hours:
-    - 'Always available'
+    - '9AM to 12PM'
   appointment_url: 'https://calendly.com/di_liu'
   contact_links:
     - icon: twitter
