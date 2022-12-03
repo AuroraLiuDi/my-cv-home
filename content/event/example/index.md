@@ -1,6 +1,5 @@
 ---
-title: "Emotional Semantic Space: Individual Difference and Prediction of
-  Emotional Well-being"
+title: "Emotional semantic space: individual difference and prediction of well-being"
 abstract: Humans tend to represent emotional knowledge in an idiosyncratic
   manner. Potential individual differences in understanding emotional labels may
   derive from how we organize information about them in our mental space. The
