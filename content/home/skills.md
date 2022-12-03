@@ -35,7 +35,7 @@ feature:
   - description: experienced and ethusiastic
     icon: language
     icon_pack: fas
-    name: semantic analysis (e.g., NLP)
+    name: language analysis (e.g., NLP)
   - description: well-practiced
     icon: chart-line
     icon_pack: fas
