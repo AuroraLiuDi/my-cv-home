@@ -14,6 +14,10 @@ summary: Memory can be classified into a vast number of different types. As one
   lobe.
 draft: false
 featured: false
+tags:
+  - Behavioural Neuroscience
+categories:
+  - Behavioural Neuroscience
 image:
   filename: featured
   focal_point: Smart
