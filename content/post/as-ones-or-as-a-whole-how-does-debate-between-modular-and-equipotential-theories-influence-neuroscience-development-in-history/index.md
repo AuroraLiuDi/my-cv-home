@@ -16,6 +16,10 @@ draft: false
 featured: false
 authors:
   - Di Liu
+tags:
+  - Behavioural Neuroscience
+categories:
+  - Science History
 image:
   filename: featured
   focal_point: Smart
