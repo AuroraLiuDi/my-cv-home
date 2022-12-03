@@ -4,6 +4,8 @@ subtitle: Essay for Psychology of Language tutorial
 date: 2022-10-06T09:17:22.640Z
 draft: false
 featured: false
+categories:
+  - Psychology of Language
 image:
   filename: featured
   focal_point: Smart
