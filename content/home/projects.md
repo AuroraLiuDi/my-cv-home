@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Emotional Semantic Space
+      tag: Emotional Semantic Space
     - name: Other
       tag: Demo
 
