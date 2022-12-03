@@ -31,7 +31,7 @@ experience:
     company_url: ''
     location: 'Beijing & New Haven (remote)'
     date_start: '2020-03-20'
-    date_end: 'Present'
+    date_end: '2023-06-30'
     description: |2-
         To be more specific:
         
@@ -48,7 +48,7 @@ experience:
     company_url:  ''
     location: 'Princeton & Max Planck Institute for Empirical Aesthetics'
     date_start: '2022-07-10'
-    date_end: 'Present'
+    date_end: '2023-01-31'
     description: |2-
         To be more specific:
         
@@ -64,7 +64,7 @@ experience:
     company_url:  ''
     location: 'Stanford & University of Oxford'
     date_start: '2021-09-30'
-    date_end: 'Present'
+    date_end: '2023-01-31'
     description: |2-
         To be more specific:
        
