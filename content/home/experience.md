@@ -26,39 +26,53 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 
 experience:
-  - title: "Project 1-Verbal Knowledge Predicts the Individual Traits in Sociality and Morality"
-    company: "research assistant to Yanchao Bi's concept lab"
+  - title: "Topic 1: What is the nature of individual differences in semantic knowledge representation"
+    company: "RA at Yanchao Bi's Concept Lab (BNU) & Affective Science and Culture Lab (Yale)"
     company_url: ''
-    location: 'Beijing Normal University'
+    location: 'Beijing & New Haven (remote)'
     date_start: '2020-03-20'
-    date_end: '2021-06-20'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        To be more specific:
         
-        * Literature review, examine papers targeting on relationship between language and non-verbal traits
-        * Material process, after close examination, short versions of SVO - testing how prosocial one is, and moral dilemma questionnair were taken
-        * Deploying, cooperating with one of my classmate, in charge of to-do-items distribution
-        * Data collection, a small sample of 60 participants were collected via a face to face guidance
-        * Modeling, considering the nesting nature of data, we adopted SVM and RSA for analysis
-        * Report writing, a formal report was written in Chinese
+        * Core question: Are individual differences in semantic knowledge purely noise or meaningful reflection of traits in other cognitive processing?
+        * Measurement: Word-pair similarity rating, Multi-arrangement task, Natural language processing based on large corpus
+        * Analysis: Support vector machine, Relevant vector machine, Representational similarity analysis, Clustering (k-means & hierarchical)
+        * Responsibility: Conduct literature review, Collect and analyze data, Contribut to academic publications
+        * Preliminary results: Organization of conceptual knowlegde in emotions can predict emotional perception & mental fitness
+
 
       
-  - title: "Project 2-Emotional knowledge representational structure and its prediction of emotional well-being"
-    company: "research assistant to Yanchao Bi's concept lab"
+  - title: "Topic 2: Individual difference in interpreting semantic meanings from perceptual stimmuli"
+    company: "RA to Perception & Semantic research Group"
     company_url:  ''
-    location: 'Beijing Normal University'
-    date_start: '2021-06-20'
-    date_end: '2022-06-20'
+    location: 'Princeton & Max Planck Institute for Empirical Aesthetics'
+    date_start: '2022-07-10'
+    date_end: 'Present'
     description: |2-
-        Responsibilities include:
+        To be more specific:
         
-        * Idea polishing, gaining inspiration from Prof. Gendron, I found the relationship between emotional semantic knowledge and well-being intriguing
-        * Deploying, ooperating with two classmates, in charge of to-do-items distribution
-        * Data collection, a large sample of 275 participants were recruited via online platform
-        * Modeling, SVR, a training model, was adopted for the main analysis; we have also applied clustering, logical regression, and PCA to analyze
-        * Report writing, a formal report was written in English
-       
+        * Project aim: Identify people's prototype of semantic categories
+        * Follow up question 1: Which semantic category (concept) has the most ambiguous preceptual prototype? 
+        * Follow up question 2: Which visual stimuli elicit highest inter-subject variation in semantic interpretation?
+        * Measurement: Developing different sampling logorithms to approach the prototype
+        * Responsibilities: Implement paradigms online, Preliminary data analysis, Report writing
 
+       
+  - title: "Topic 3: How do differences in semantic knowledge come into being"
+    company: "RA to Language and Cognition Lab (Stanford) & ReadOxford Research Group (Oxford)"
+    company_url:  ''
+    location: 'Stanford & University of Oxford'
+    date_start: '2021-09-30'
+    date_end: 'Present'
+    description: |2-
+        To be more specific:
+       
+        * Research line 1: Do language and cultural background influence relational reasoning styles? (a general cognitive ability influencing encoding)
+        * Research line 2: Do individuals acquire valence information from reading materials? (a verbal ability influencing semantic knowledge acquisition) 
+        * Indirectly answer the question: What influences our acquisition of semantic knowledge? 
+        * Measurement: run experiement on 3- to 12-year-old kids
+        * Responsibilities: Develop experimental materials, Experimenter, Preliminary data analysis
 design:
-  columns: '2'
+  columns: '3'
 ---
