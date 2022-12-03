@@ -1,13 +1,12 @@
 ---
 role: Senior student in Psychology
 avatar_filename: "content/authors/admin/photo.png"
-bio: My research interest includes semantic representation, conceptual knowledge
-  (especially emotional knowledge), language, and culture
+bio: My research interest includes semantic knowledge (especially emotional knowledge), conceptual representations, language, and culture
 interests:
-  - Semantic Representations
-  - Conceptual Knowledge
-  - Culture
+  - Semantic Knowledge
+  - Conceptual Representation
   - Language
+  - Culture
 social:
   - icon: twitter
     icon_pack: fab
@@ -28,7 +27,7 @@ education:
     - course: Bsc in Psychology GPA 4.00/4.00
       institution: Beijing Normal University
       year: ""
-    - course: Visiting Student in Psychology
+    - course: Non-Matriculated Visiting Student in Psychology
       institution: University of Oxford
       year: ""
 superuser: true
